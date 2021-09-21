@@ -1,0 +1,169 @@
+/* Background e Header */
+.BD-body {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    background-attachment: fixed;
+    background-size:cover;
+    
+    
+}
+nav {
+    background-color:#000000;
+
+}
+
+.navbar-pos{
+    position: fixed;
+}
+
+.text {
+    color: white;
+}
+
+.img-pos {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Foto */
+.ftperfil {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 100px;
+    border-radius: 50%;
+    border-style: solid; color:white;
+}
+
+/* Nome */
+.t-fonte{
+    font-family:'Roboto', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: 110px;
+}  
+
+/* ícones */
+.icone{
+   position: absolute;
+   left: 610px;
+   bottom: 70px;
+}
+
+.icone2{
+   position: absolute;
+   left: 645px;
+   bottom: 70px;
+
+}
+
+.icone3{
+    position: absolute;
+    left: 684px;
+    bottom: 70px;
+}
+
+.linha{
+    background-color: white;
+    opacity: 100%;
+    position: relative;
+    top: 200px;
+}
+
+/* Texto */
+
+.titulo{
+    font-family:'Roboto', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+/* Sobre mim */
+.BD-div{
+    position: relative;
+    top: 200px;
+    background-color: white;
+}
+
+.p1{
+   padding-right: 20px;
+   padding-left: 20px;
+}
+
+/* Formação */
+.BD-div2{
+    position: relative;
+    top: 90px;
+    background-color: white; 
+
+}
+
+.p2{
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 70px;
+}    
+
+.linha2{
+    background-color: white;
+    opacity: 100%;
+    position: relative;
+    top: 320px;
+}
+
+/* Logos */
+.logoil{
+    position: absolute;
+    bottom: 10px;
+    top: 180px;
+    margin-left: 20px;
+}
+
+.logoPs{
+    position: absolute;
+    bottom: 10px;
+    top: 150px;
+    left: 160px;
+    margin-left: 90px;
+}
+
+.logoAE{
+    position: absolute;
+    bottom: 10px;
+    top: 160px;
+    left: 440px;
+    margin-left: 90px;
+}
+
+.logoZB{
+    position: absolute;
+    bottom: 10px;
+    top: 165px;
+    left: 710px;
+    margin-left: 90px;
+}
+
+.logoMY{
+    position: absolute;
+    bottom: 780px;
+    top: 120px;
+    left: 940px;
+    margin-left: 90px;
+}
+
+/* Projetos */
+.linha3{
+    background-color: white;
+    opacity: 100%;
+    position: relative;
+    top: 295px;
+}
+
+
+
