@@ -1,5 +1,8 @@
 # Projeto-Portfolio
 Olá, sou o aluno Felipe Matias do curso de DSM do 1ºsemestre. Neste repositório estarei disponibilizando as pastas contendo tanto os wireframes das versões desktop e mobile quanto
 o código-fonte do meu site portfólio. 
-
-*Nota: devido ao tamanho do arquivo PDF contendo os wireframes pode ser que ele não abra no Github, portanto estarei adicionando a sua versão compactada para a visualização fora do site (peço perdão pelo incoveniente, não consegui encontrar uma solução para esse problema).
+- Na pasta 'Código-fonte' estarei disponibilizando o arquivo 'html' para as quatro páginas feitas por mim (Menu, Sobre mim, Formação, Projetos) além de uma sub-pasta contendo o CSS que utilizei nas mesmas.
+- Na pasta 'Doc' estarei disponibilizando um arquivo PDF contendo ambos os wireframes desktop e mobile (*Nota: pode ser que as imagens do wireframe mobile estejam grandes e desde já peço desculpas pelo incoveniente, não soube como resolver o problema).
+- 
+                                                                    -- Link para demonstração do Portfólio --
+Link: 
